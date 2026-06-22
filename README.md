@@ -1,6 +1,6 @@
 ## Branden Barnes
 
-Indie developer, builder, and founder of Praecursor Labs.
+Indie developer, builder, and co-founder/owner of Praecursor Labs.
 
 Focused on:
 - Offline-first software
